@@ -1,21 +1,21 @@
 # Chang Sun
 
 Independent Researcher  
-GitHub Page: https://sunchang.github.io
+GitHub Page: https://chongqie.github.io/sunChang.github.io/
 
----
+
 
 ## Research Interests
 
 Autoregressive Language Models, Diffusion Models, Parallel Generation, Efficient LLM Inference
 
----
+
 
 ## Current Focus
 
 Hybrid AR + Diffusion Parallel Generation Framework (Qwen + LLaDA)
 
----
+
 
 ## 🔬 Current Research
 
